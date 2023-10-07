@@ -6,5 +6,5 @@ Open the program and type the name of the person whose username you know on a di
 
 
 
-programın amacı araştırma ve öğrenmektir kötüye kullanımından sorumlu değilim.
+programın amacı araştırma ve öğrenmektir kötüye kullanımından sorumlu değilim. / 
 The purpose of the program is to research and learn, I am not responsible for its abuse.
