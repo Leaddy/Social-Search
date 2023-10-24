@@ -71,7 +71,7 @@ def open_url(url):
 
 def open_leaddy_link():
     import webbrowser
-    webbrowser.open_new("https://linktr.ee/leaddy")
+    webbrowser.open_new("https://heylink.me/leaddy")
 
 def show_search_history():
     global history_window  # history_window değişkenini global olarak tanımlayın
